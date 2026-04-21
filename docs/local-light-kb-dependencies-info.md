@@ -7,8 +7,6 @@ tags: 知识库, Skill, 词义, Agent
 category: Agent, Python-numpy
 ---
 
-# 轻量级Local数据语义搜索Skill的依赖与技术介绍
-
 ## 1. 功能概述
 
 轻量级Local数据语义搜索，用于在知识库中通过自然语言查询（支持中英文混合）检索最匹配的文档记录。
