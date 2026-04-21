@@ -1,3 +1,12 @@
+---
+title: 轻量级Local数据语义搜索Skill的依赖与技术介绍
+description: 相关基础概念介绍
+#多个标签请使用英文逗号分隔或使用数组语法
+tags: 知识库, Skill, 词义, Agent
+#多个分类请使用英文逗号分隔或使用数组语法，多级分类使用 - 分隔
+category: Agent, Python-numpy
+---
+
 # 轻量级Local数据语义搜索Skill的依赖与技术介绍
 
 ## 1. 功能概述
